@@ -1,0 +1,27 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "ex 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaKalinina/node-basic.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Daria Kalinina <lynxx91@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariaKalinina/node-basic/issues"
+  },
+  "homepage": "https://github.com/DariaKalinina/node-basic#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
